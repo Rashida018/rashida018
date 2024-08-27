@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>Hello Everyone</title>
+    </head>
+    <body>
+        <h1 style="text-align: center;">WELCOME TO HETA</h1>
+    <img style="margin-left: 200px;" src="./heta_institute_of_technology_cover.jpg">
+<p>Welcome to the official LinkedIn page of the collaborative institution of Alagappa University!
+    Our institution offers a diverse range of undergraduate and postgraduate programs across various disciplines, including arts, sciences, commerce, technology, and management.
+    Our curriculum is designed to align with industry trends and demands, equipping students with the skills and knowledge necessary to succeed in their chosen fields.
+</p>
+<a href="https://hetaeduversity.com/" target="_blank">visit example website</a>
+<br>
+<br>
+<br>
+<br>
+
+<form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name"><br><br>
+
+    <label for="subscribe">subscribe to Heta:</label>
+    <input type="checkbox" id="subscribe" name="subscribe"><br><br>
+
+    <input type="submit" value="submit">
+</form>
+
+<br>
+<br>
+<br><br>
+
+<table border="1">
+    <tr>
+        <th>header 1</th>
+        <th>header 2</th>
+        <th>header 3</th>
+        <th>header 4</th>
+        <th>header 5</th>
+    </tr>
+    <tr>
+        <td>A 1, column 1</td> 
+        <td>B 1, column 2</td>
+        <td>C 1, column 3</td>
+        <td>D 1, column 4</td>
+        <td>E 1, column 5</td>
+    </tr>
+</table>
+
+<br><br><br>
+
+<Ol>
+    <li>apple</li>
+    <li>mango</li>
+    <li>banana</li>
+    <li>watermelon</li>
+    <li>orange</li>
+</OL>
+
+
+<br><br><br>
+
+
+<ul>
+    <li>pink 1</li>
+    <li>purple 2</li>
+    <li>black 3</li>
+    <li>blue 4</li>
+    <li>violet 5</li>
+</ul>
+
+ </body>
+</html>
